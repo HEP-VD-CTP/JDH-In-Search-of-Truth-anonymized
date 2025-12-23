@@ -4,9 +4,6 @@
 history of education; reflexivity; teacher education; transversal competences, Generative Artificial Intelligence
 
 
-## Authors
-Sabina Calastri, Marcel Grosjean, Giorgia Masoni, Nicolas Perrin, David Piot, Sylviane Tinembart, Laura Vita & Emmanuelle Vollenweider
-
 ## In Search of Truth: History of Education and the Use of GenAI, A Way To Train Reflective Teachers?
 
 Generative Artificial Intelligence (GenAI) models challenge researchers in the humanities and invite them to rethink their methods, objects of study, and critical posture (Clavert & Muller, 2024). Historians are increasingly urged to examine the uses and implications of these technologies in the production of knowledge about the past (Meadows & Sternfeld, 2023). Moreover, because of the widespread use of GenAI tools by pupils and students within their educational pathways, this topic takes place into the field of teacher education as well.
@@ -19,7 +16,7 @@ Our research approach is grounded in the tensions between the way GenAI models o
 
 In the field of history, this dynamic stands in direct opposition to the principles of historical critique, that are : source gathering and evaluation; document cross-referencing; contextualisation of statements; and bias identification. GenAI produces narratives of the past without historiography, critical framing, or debate —all of which are central to the epistemology of history (Prost, 2010).
 
-Several scholars have stressed the importance of not approaching GenAI as a radical rupture, but rather to situate it within a long genealogy of technical innovations in education (Petit, 2022). From this perspective, the history of education can serve a dual role: on the one hand, it sheds light on the historical dynamics of pedagogical knowledge production and circulation; on the other, it contributes to the development of a critical
+Several scholars have stressed the importance of not approaching GenAI as a radical rupture, but rather to situate it within a long genealogy of technical innovations in education (Petit, 2022). From this perspective, the history of education can serve a dual role: on the one hand, it sheds light on the historical dynamics of pedagogical knowledge production and circulation; on the other, it contributes to the development of a critical.
 
 posture on GenAI and its uses in educational contexts. The history of educational technologies (Petit, 2022) thus constitutes a valuable training topic to deconstruct the supposed "breakthrough" of GenAI in teaching practices and query an ethical, reflexive, and context-sensitive professional posture.
 
